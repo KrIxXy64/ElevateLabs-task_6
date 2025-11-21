@@ -1,0 +1,19 @@
+Password Strength Evaluation Report – Task 6
+
+This task involved creating multiple passwords with different complexity levels and testing them using an online password strength checker. Each password was evaluated based on its length, use of uppercase and lowercase letters, numbers, symbols, and randomness.
+
+Passwords Tested and Results:
+1. hello123 – Weak: Too short, lowercase + numbers only, predictable pattern.
+2. Hello123 – Medium: Uppercase added but still predictable and missing symbols.
+3. Hello@123 – Strong: Includes uppercase, lowercase, numbers, and symbol.
+4. Hello@123456 – Very Strong: Strong mix and longer length provides higher cracking resistance.
+5. T!ger$Sunset#9452 – Extremely Strong: Long, random, includes multiple character types.
+
+Findings:
+• Password length greatly affects strength.
+• Symbols and mixed-case characters significantly increase security.
+• Predictable words and patterns reduce password strength even if characters are mixed.
+• The strongest passwords use randomness and are several characters long.
+
+Conclusion:
+Long, random passwords with uppercase, lowercase, numbers, and symbols offer maximum protection and are recommended for secure authentication.
